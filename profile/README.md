@@ -1,5 +1,3 @@
-﻿# We are a student-run open source software organization at UNC Charlotte.
-
 ## Active Projects
 ### Niner Registration
 Chrome extension that incorporates RateMyProfessors data, past UNCC grade data, and a calendar builder for various calendar apps using .ics files.
