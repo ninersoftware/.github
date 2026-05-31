@@ -1,9 +1,8 @@
-﻿# ninersoftware
-We are a student-run open source software organization at UNC Charlotte.
+﻿# We are a student-run open source software organization at UNC Charlotte.
 
 ## Active Projects
 ### Niner Registration
-Adds new features such as .ics calendar building, historical grade data, and colored themes on the existing NinerRatings Chrome extension.
+Chrome extension that incorporates RateMyProfessors data, past UNCC grade data, and a calendar builder for various calendar apps using .ics files.
 ### Gold Mine UNCC
-A campus application tracking UREC facility status, parking avaiability, and numerous other operations.
+A campus application tracking UREC facility status, parking avaiability, and numerous other operations. Currently working on building an Android version by Fall 2026.
 
